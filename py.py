@@ -21,7 +21,7 @@ userss=[]
 new_user_id='пусто'
 
 
-TWO = 'ВЫ ЗДЕСЬ УЖЕ БЫЛИ'
+TWO = 'ВЫ ЗДЕСЬ еще не БЫЛИ'
 
 #read_file.close()
 
